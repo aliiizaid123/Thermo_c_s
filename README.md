@@ -196,7 +196,96 @@
 [**3–95C: What is the physical significance of the two constants in the van der Waals equation?**](https://github.com/Ali-Zaid7/openai_sdk_3)  
 **Answer:** **'a'** accounts for intermolecular attraction. **'b'** accounts for finite molecular volume. Both determined from critical property data (P_cr, T_cr).
 
+
+
+| Q     | Memory Cue                                                  |
+| ----- | ----------------------------------------------------------- |
+| 3–1C  | Iced water = pure (same composition)                        |
+| 3–2C  | Sat liquid = boiling; Compressed liquid = below boiling     |
+| 3–3C  | Sat vapor = at boiling; Superheated = above boiling         |
+| 3–6C  | Boiling ↑ with pressure ↑                                   |
+| 3–7C  | T constant during boiling; ↑P shifts T_sat                  |
+| 3–8C  | Sat mixture: T ↔ P linked                                   |
+| 3–9C  | Critical = liq & vapor same; Triple = solid+liq+vap coexist |
+| 3–10C | Water vapor at 10°C if P < P_sat                            |
+| 3–11C | Heavy lid → faster cooking (traps heat)                     |
+| 3–12C | Supercritical: no phase; Subcritical: distinct boiling      |
+| 3–13C | Tall narrow → ↑P_bottom → ↑T_boil                           |
+| 3–15C | Warm air+gasoline rises (less dense)                        |
+| 3–17C | Q_vap = Q_cond at same T & m                                |
+| 3–19C | h_fg = latent heat = h_g − h_f                              |
+| 3–20C | h_fg ↓ with T ↑ (100°C > 120°C)                             |
+| 3–23C | h_fg ↓ with ↑P; h_fg=0 at critical P                        |
+| 3–24C | Quality = mass ratio, not volume                            |
+| 3–25C | v_compressed ≈ v_f(T)                                       |
+| 3–70C | Ideal gas assumption: low P, high T                         |
+| 3–71C | R = specific; R_u = universal; R_u = M·R                    |
+| 3–81C | Z = Pv/RT; Z=1 ideal, Z≠1 real                              |
+| 3–83C | P_r = P/P_cr, T_r = T/T_cr                                  |
+| 3–95C | Van der Waals: a = attraction, b = molecular volume         |
+
 ---
+# Chapter 4
+
+4-1C to 4-4C (all included), 4-43C, 4-46C, 4-47C, 4-48C, 4-54C, 4-152, 4-158. 
+Here’s a **condensed, exam-ready version** of your Chapter 4 questions with **short 1–1.5 line answers**, followed by a **quick revision cheat sheet**:
+
+---
+
+
+[**4–1C:** On a P-v diagram, what does the area under the process curve represent?](https://quran.com/6)
+
+**Answer:** Work done by or on the system during the process.
+
+[**4–2C:** Is the boundary work associated with constant-volume systems always zero?](https://quran.com/5?startingVerse=17)
+
+**Answer:** Yes, because Δv = 0 → W = ∫PdV = 0.
+
+[**4–3C:** An ideal gas expands first at constant pressure, then at constant temperature. Which work is greater?](https://quran.com/6)
+
+**Answer:** Constant pressure → W = PΔV; constant temperature → W = nRT ln(V₂/V₁); usually constant pressure yields greater W if ΔV is large.
+
+[**4–4C:** Show that 1 kPa·m³ = 1 kJ.](https://quran.com/5?startingVerse=17)
+
+**Answer:** 1 kPa·m³ = 10³ Pa·m³ = 10³ N/m²·m³ = 10³ N·m = 1 kJ.
+
+[**4–43C:** Is u = m·cᵥ·T valid only for constant volume or any process?](https://quran.com/6)
+
+**Answer:** Valid for **any ideal gas process**, as cᵥ relates internal energy to temperature only.
+
+[**4–46C:** Energy to heat air from 295→305 K same as 345→355 K at constant pressure?](https://quran.com/5?startingVerse=17)
+
+**Answer:** Yes, if cᵥ/cₚ is constant—energy depends only on ΔT.
+
+[**4–47C:** Correct unit of cᵥ in u = m·cᵥ·T?](https://quran.com/6)
+
+**Answer:** kJ/(kg·K).
+
+[**4–48C:** Gas heated 50→80°C at (a) 1 atm and (b) 3 atm; which requires more energy?](https://quran.com/5?startingVerse=17)
+
+**Answer:** **(b) 3 atm**—ΔH = cₚ·ΔT is the same, but higher pressure means more boundary work.
+
+[**4–54C:** Can an ideal gas compress isothermally in an adiabatic piston-cylinder?](https://quran.com/6)
+
+**Answer:** No—adiabatic process has Q = 0, but isothermal requires heat transfer. They're mutually exclusive.
+
+
+---
+
+### Quick Revision Chat (1–2 min read)
+
+* **Work:** Area under P-v curve = boundary work.
+* **Constant volume:** W = 0.
+* **Expansion work:** W = PΔV (const P) > W (isothermal) usually if ΔV large.
+* **Unit conversion:** 1 kPa·m³ = 1 kJ.
+* **Internal energy:** u = m·cv·T, valid for any ideal gas process.
+* **Energy for same ΔT:** Same if cv/cp constant.
+* **cv unit:** kJ/(kg·K).
+* **Heating at higher P:** Needs more energy (ΔH = cpΔT + W).
+* **Adiabatic & isothermal conflict:** Cannot happen together in same process.
+
+---
+
 
 # Chapter 5
 5-2C, 5-18C, 5-20C, 5–25C, 5–28C, 5–46C, 5–25C, 5–62C, 5–63C, 5–65C, 5–72C, 5–73C, 5-200, 5-202,  
